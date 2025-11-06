@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Final Practicum</string>
+    <string name="app_logo" />
+    <string name="ratings_comments_rotten_tomatoes"><![CDATA[RATINGS, COMMENTS & ROTTEN TOMATOES !!!]]></string>
+    <string name="movie_review_manager">Movie Review Manager</string>
+    <string name="average_rating_calculating">Average Rating: Calculating...</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="view_reviews">View Reviews</string>
+    <string name="todo">TODO</string>
+    <string name="movie_reviews">Movie Reviews</string>
+    <string name="back_to_main">Back to Main</string>
+</resources>
